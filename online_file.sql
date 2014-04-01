@@ -1,1 +1,2 @@
-select * from online;
+select * from online
+where group_by = local;
